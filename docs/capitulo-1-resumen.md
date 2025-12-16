@@ -1,6 +1,6 @@
 Capítulo 1 — Pantalla Resumen Financiero
 
-![Portada – Resumen](./imagenes/Pantalla_Resumen.png)
+![Dashboard – Resumen](../imagenes/Pantalla_Resumen.png)
 
 ## 🎯 Objetivo de la pantalla
 
