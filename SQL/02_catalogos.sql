@@ -58,3 +58,4 @@ INSERT INTO tarjetas_credito (nombre_tarjeta) VALUES
 ('Oro Express'),
 ('ONE BLACK'),
 ('Básica Blanca');
+
