@@ -1,0 +1,66 @@
+## Capítulo 3 – Ahorro y Metas
+
+Este capítulo documenta la pantalla **Ahorro y Metas**, que da continuidad a la vista general presentada en el Capítulo 2.
+
+![Dashboard – Meta y Ahorros](../imagenes/Metas.png)
+
+El objetivo es analizar el progreso real de metas de ahorro, separando claramente:
+- estado del ahorro
+- actividad (abonos y retiros)
+- fechas clave de la meta
+
+---
+
+## Enfoque de la pantalla
+
+La pantalla responde a preguntas como:
+- ¿Cuándo inicié esta meta?
+- ¿Cuánto llevo realmente ahorrado?
+- ¿Cuántas veces he aportado?
+- ¿He retirado dinero del fondo?
+- ¿Qué tan cerca estoy de cumplir la meta?
+
+El enfoque es **financiero y narrativo**, no solo visual.
+
+---
+
+## Decisiones clave de diseño
+
+- El ahorro se trata como **estado**, no como gasto.
+- Los retiros afectan el saldo, pero no invalidan la meta.
+- La fecha objetivo es distinta al inicio del ahorro.
+- Toda la lógica se resuelve en SQL.
+- Power BI solo presenta información ya coherente.
+
+---
+
+## Elementos del dashboard
+
+### KPIs
+- Inicio del ahorro
+- Fecha objetivo
+- Total ahorrado
+- Número de abonos
+
+### Visual principal
+- Gráfica de dona:
+  - Total ahorrado
+  - Monto restante
+
+La dona se utiliza únicamente para mostrar el progreso de **una meta activa**, evitando comparaciones engañosas.
+
+### Actividad reciente
+- Último abono
+- Total retirado
+- Progreso porcentual
+
+---
+
+## Resultado
+
+La pantalla permite una lectura clara del estado del ahorro y su evolución, sin generar dinero fantasma ni confundir ahorro con gasto.
+
+---
+
+## Continuidad
+El siguiente capítulo aborda el **Método de Pago**, enfocado en hábitos de consumo y preferencias de uso.
