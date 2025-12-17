@@ -1,5 +1,7 @@
 # Capítulo 2 – Ingresos y Uso de Liquidez
 
+![Dashboard – Ingresos vs Uso de Liquidez](../imagenes/Ingresos_vs_Liquidez.png)
+
 Este capítulo documenta la pantalla **Ingresos y Uso de Liquidez**, que funciona como la vista **resumen financiera** del sistema.
 
 El objetivo de esta pantalla no es solo mostrar ingresos y gastos, sino **garantizar coherencia financiera real entre periodos**, evitando errores comunes como dinero fantasma o descuadres mensuales.
