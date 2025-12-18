@@ -2,7 +2,7 @@
 
 ## Vista general
 
-![Préstamos](./imagenes/prestamos.png)
+![Préstamos](../imagenes/prestamos.png)
 
 Esta pantalla analiza la **posición financiera real** derivada de préstamos personales, separando claramente:
 
