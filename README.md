@@ -2,14 +2,14 @@
 
 Diseño del modelo de datos en SQL
 
-## 🎯 Objetivo del proyecto
+##  Objetivo del proyecto
 
 Este proyecto consiste en el **diseño e implementación de un sistema completo de análisis de finanzas personales**, construido **desde cero**, comenzando por la creación de la base de datos (con datos ficiticios), la definición de las tablas, y la carga de los registros.
 
 No se utilizó ningún dataset externo.  
 Tanto la estructura como los datos fueron definidos y poblados manualmente, permitiendo controlar completamente las reglas desde el origen.
 
-## 🧠 Principios de diseño
+##  Principios de diseño
 
 Antes de construir cualquier visualización, se definieron las siguientes reglas:
 
@@ -36,7 +36,7 @@ Este enfoque permitió:
 - mantener coherencia en el modelo a medida que crecía
 
 
-## 🗂️ Modelo de datos (visión general)
+##  Modelo de datos (visión general)
 
 El modelo de datos fue diseñado e implementado directamente en PostgreSQL, partiendo de una base de datos vacía.
 Las tablas, relaciones y catálogos fueron creados explícitamente para representar el dominio financiero personal, sin apoyarse en esquemas preexistentes.
@@ -51,7 +51,7 @@ Relaciones explícitas mediante claves foráneas
 
 Esto permite escalar el análisis sin duplicar lógica.
 
-## 🧱 Tablas del sistema
+##  Tablas del sistema
 🔹 movimientos
 
 Tabla central del sistema.
