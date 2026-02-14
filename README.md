@@ -1,4 +1,4 @@
-## 📊 Sistema de Anlisis de Finanzas Personales
+##  Sistema de Anlisis de Finanzas Personales
 
 Diseño del modelo de datos en SQL
 
